@@ -47,4 +47,11 @@ top_linked_list = Node(100)
 3. 第二次 LinkedPush(15)：
 top_linked_list = Node(15) -> Node(100)
 新的節點 (15) 被創建，其 next 指向之前的節點 (100)。
+
+
+
+$ python LinkedListStack.py
+The top data is = 10
+The top data is = 15
+The top data is = 100
 '''
