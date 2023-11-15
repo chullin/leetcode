@@ -2,6 +2,7 @@
 Way2: 先將 nums 編號並存在字典中，
     然後用 target - nums 的當前值
     最後看扣完的值是否存在 nums 中
+    結果 python 版本太舊真的不支援 :list 的註解方式
 '''
 class Solution:
     def twoSum(self, nums: list[int], target: int) -> list[int]:
