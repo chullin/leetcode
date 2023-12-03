@@ -1,24 +1,21 @@
 class Solution:
     def maxSubArray(self, nums) -> int:
-        max_sum = 0
+
+        Max_sum = 0
         for i in range(len(nums)):
-            # print(nums[i])
-            if max_sum < nums[i]:
-                max_sum = nums[i]
+            sum = 0
+            for j in range(i, len(nums)):
+                # print("["+str(i)+"]", "["+str(j)+"]")
+                sum += nums[j]
+                # print(sum)
+                if Max_sum < sum:
+                    Max_sum = sum
 
-            
-
-
-
-
-        return max_sum
-
-
-
+        return Max_sum
 
 
 
 if __name__ ==  '__main__':
-    case1 = [-2,1,-3,4,-1,2,1,-5,4]
+    case1 = [5,4,-1,7,8]
     solution = Solution()
-    print(solution.maxSubArray(case1))
+    print("Max_sum = ", solution.maxSubArray(case1))
