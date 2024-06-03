@@ -23,3 +23,7 @@ see it: https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-jav
 ||||[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3676877/best-method-100-c-java-python-beginner-friendly/)
 ||||[Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/3687854/3-methods-c-java-python-beginner-friendly/)
 ||||[Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/3687735/beats-100-c-java-python-beginner-friendly/)
+
+
+
+家禹推薦，之後有機會可以試試：https://leetcode.com/studyplan/30-days-of-javascript/
