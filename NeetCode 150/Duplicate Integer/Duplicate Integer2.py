@@ -3,9 +3,8 @@ class Solution:
         tag = None
         for i in range(len(nums)):
             tag = nums[i]
-            for j in range(i+1, len(nums)):
-                if tag == nums[j]:
-                    return True
+            if tag in nums[i+1:]:
+                return True
         return False
 
 
