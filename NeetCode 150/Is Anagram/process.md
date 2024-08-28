@@ -1,4 +1,4 @@
-## 題目：Is Anagram
+## 題目： [Is Anagram](https://neetcode.io/problems/is-anagram)
 Given two strings s and t, return true if the two strings are anagrams of each other, otherwise return false.
 
 An anagram is a string that contains the exact same characters as another string, but the order of the characters can be different.
@@ -75,3 +75,20 @@ def bubble_sort(arr):
 2. 運用插入排序： 對於較小的 "runs" 使用插入排序，因為插入排序在小規模數據上表現得非常高效。
 
 3. 合併排序： 在排序完每個 "runs" 後，Timsort 會像歸併排序一樣將這些 "runs" 合併成更大的排序區間。
+
+
+## 解答：
+```python
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
+        if len(s) != len(t):
+            return False
+
+        countS, countT = {}, {}
+
+        for i in range(len(s)):
+            countS[s[i]] = 1 + countS.get(s[i], 0)
+            countT[t[i]] = 1 + countT.get(t[i], 0)
+        return countS == countT
+```
+
