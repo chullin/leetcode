@@ -1,4 +1,4 @@
-題目：Duplicate Integer
+題目：[Duplicate Integer](https://neetcode.io/problems/duplicate-integer)
 
 Given an integer array nums, return true if any value appears more than once in the array, otherwise return false.
 
@@ -41,3 +41,16 @@ Python 內建的 set 類型本質上就是使用哈希表來實現的，因此�
 當你將一個元素放入集合時，Python 會根據該元素的哈希值（由 hash() 函數計算）決定該元素應該存放在哈希表的哪個位置。
 2. 快速定位：
 透過哈希值，哈希表能夠直接計算出元素在內存中的位置，而不需要遍歷整個集合。因此，插入、刪除和查找元素都只需一步即可完成，這使得這些操作的平均時間複雜度是 O(1)。
+
+# 解答：
+```python
+class Solution:
+    def hasDuplicate(self, nums: List[int]) -> bool:
+        hashset = set()
+
+        for n in nums:
+            if n in hashset:
+                return True
+            hashset.add(n)
+        return False
+```
