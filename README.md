@@ -27,3 +27,8 @@ see it: https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-jav
 
 
 家禹推薦，之後有機會可以試試：https://leetcode.com/studyplan/30-days-of-javascript/
+
+
+
+## 2024/09/04 更
+### [Python 函數：紀錄 Neetcode 中使用到，但不會的函數](https://quizlet.com/tw/938125480/python-%E5%87%BD%E6%95%B8-flash-cards)
