@@ -4,6 +4,7 @@ class Solution:
         for i, num in enumerate(nums):
             minus = target - num
             if minus in minus_dict:
+                print(minus_dict)
                 return [minus_dict[minus], i]
             minus_dict[num] = i
 
