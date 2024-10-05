@@ -20,3 +20,7 @@ Input2 = 9
 Input3 = 2
 print(Solution_instance.search(Input1, Input2))
 print(Solution_instance.search(Input1, Input3))
+
+
+# 雖然可以使用暴力破解，但是這樣的時間複雜度為O(n)，而題目要求的是O(log n)
+# 所以這邊使用二分搜尋法來解決
