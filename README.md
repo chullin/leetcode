@@ -15,10 +15,10 @@ see it: https://leetcode.com/problems/two-sum/solutions/3619262/3-method-s-c-jav
 |  ✔️  | (DP)⚠️ |      |                     [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/solutions/3666304/beats-100-c-java-python-beginner-friendly/)                     |
 |  ✔️  |        |      |                       [27. Remove Element](https://leetcode.com/problems/remove-element/solutions/3670940/best-100-c-java-python-beginner-friendly/)                        |
 |  ✔️  |        |      |                  [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/solutions/3672475/4-method-s-c-java-python-beginner-friendly/)                  |
-|      |        |      |                        [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solutions/3675747/beats-100-c-java-python-beginner-friendly/)                        |
-|      |        |      |                  [Majority Element](https://leetcode.com/problems/majority-element/solutions/3676530/3-methods-beats-100-c-java-python-beginner-friendly/)                  |
-|      |        |      | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3676877/best-method-100-c-java-python-beginner-friendly/) |
-|      |        |      |                          [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/3687854/3-methods-c-java-python-beginner-friendly/)                          |
+|  ✔️  |        |      |                        [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/solutions/3675747/beats-100-c-java-python-beginner-friendly/)                        |
+|  ✔️  |        |      |                  [Majority Element](https://leetcode.com/problems/majority-element/solutions/3676530/3-methods-beats-100-c-java-python-beginner-friendly/)                  |
+|  ✔️  |        |      | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/solutions/3676877/best-method-100-c-java-python-beginner-friendly/) |
+|  ✔️  |        |      |                          [Valid Anagram](https://leetcode.com/problems/valid-anagram/solutions/3687854/3-methods-c-java-python-beginner-friendly/)                          |
 |      |        |      |                         [Group Anagrams](https://leetcode.com/problems/group-anagrams/solutions/3687735/beats-100-c-java-python-beginner-friendly/)                         |
 
 家禹推薦，之後有機會可以試試：https://leetcode.com/studyplan/30-days-of-javascript/
