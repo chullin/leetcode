@@ -180,3 +180,158 @@ Use Python to complete LeetCode and strengthen problem-solving skills.
 - Finish Top 50
 - Build strong intuition for patterns
 - Improve coding interview performance
+
+
+
+# 🧠 LeetCode 50 Roadmap (14 Days Plan)
+
+Goal:
+- Build problem-solving intuition
+- Master core patterns
+- Prepare for interviews
+
+---
+
+## ✅ Day 1 — Array / Hash (基礎)
+- [ ] Two Sum  
+- [ ] Contains Duplicate  
+- [ ] Valid Anagram  
+
+---
+
+## ✅ Day 2 — Array / Hash (進階)
+- [ ] Group Anagrams  
+- [ ] Top K Frequent Elements  
+
+---
+
+## ✅ Day 3 — Array / Hash（高頻技巧）
+- [ ] Product of Array Except Self  
+- [ ] Longest Consecutive Sequence  
+
+🔁 Review: Two Sum
+
+---
+
+## ✅ Day 4 — Two Pointers
+- [ ] Valid Palindrome  
+- [ ] Two Sum II  
+- [ ] Container With Most Water  
+
+---
+
+## ✅ Day 5 — Two Pointers（Hard 思維）
+- [ ] 3Sum  
+
+🔁 Review: Valid Palindrome
+
+---
+
+## ✅ Day 6 — Sliding Window
+- [ ] Longest Substring Without Repeating Characters  
+- [ ] Longest Repeating Character Replacement  
+
+---
+
+## ✅ Day 7 — Sliding Window（經典）
+- [ ] Minimum Window Substring  
+
+🔁 Review: Sliding Window 觀念整理
+
+---
+
+## ✅ Day 8 — Stack
+- [ ] Valid Parentheses  
+- [ ] Min Stack  
+
+---
+
+## ✅ Day 9 — Stack（單調棧🔥）
+- [ ] Daily Temperatures  
+- [ ] Largest Rectangle in Histogram  
+
+---
+
+## ✅ Day 10 — Binary Search
+- [ ] Binary Search  
+- [ ] Search in Rotated Sorted Array  
+
+---
+
+## ✅ Day 11 — Binary Search（變形）
+- [ ] Find Minimum in Rotated Sorted Array  
+- [ ] Search a 2D Matrix  
+
+---
+
+## ✅ Day 12 — Linked List
+- [ ] Reverse Linked List  
+- [ ] Merge Two Sorted Lists  
+- [ ] Linked List Cycle  
+
+---
+
+## ✅ Day 13 — Linked List（經典）
+- [ ] Remove Nth Node From End  
+- [ ] Copy List with Random Pointer  
+
+---
+
+## ✅ Day 14 — Tree（🔥超重點）
+- [ ] Maximum Depth of Binary Tree  
+- [ ] Same Tree  
+- [ ] Invert Binary Tree  
+- [ ] Level Order Traversal  
+- [ ] Validate BST  
+- [ ] Lowest Common Ancestor  
+
+---
+
+# 🚀 延伸（第二階段）
+
+## Graph
+- [ ] Number of Islands  
+- [ ] Clone Graph  
+- [ ] Course Schedule  
+- [ ] Word Ladder  
+
+## Backtracking
+- [ ] Subsets  
+- [ ] Permutations  
+- [ ] Combination Sum  
+
+## Heap
+- [ ] Kth Largest Element  
+- [ ] Find Median from Data Stream  
+
+## Dynamic Programming（🔥關鍵）
+- [ ] Climbing Stairs  
+- [ ] House Robber  
+- [ ] Coin Change  
+- [ ] Longest Increasing Subsequence  
+- [ ] Word Break  
+
+## Greedy
+- [ ] Jump Game  
+- [ ] Merge Intervals  
+
+---
+
+# 🧩 Daily Strategy
+
+Every day:
+1. Solve problems (30 min)
+2. Review 1 old problem
+3. Write notes:
+
+- 🧠 Idea
+- ⏱ Complexity
+- 🔁 Pattern
+
+---
+
+# 🏁 Goal
+
+- Finish 50 questions
+- Recognize patterns instantly
+- Pass coding interviews
