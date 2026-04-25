@@ -193,7 +193,7 @@ Goal:
 ---
 
 ## ✅ Day 1 — Array / Hash (基礎)
-- [ ] Two Sum  
+- [ ✔️ ］Two Sum  
 - [ ] Contains Duplicate  
 - [ ] Valid Anagram  
 
