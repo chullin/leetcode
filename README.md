@@ -193,15 +193,15 @@ Goal:
 ---
 
 ## ✅ Day 1 — Array / Hash (基礎)
-- [✔️］Two Sum  
-- [✔️］Contains Duplicate  
-- [ ] Valid Anagram  
+- [✔️］Two Sum(enumerate)
+- [✔️］Contains Duplicate(set)
+- [✔️］Valid Anagram(dict operation)
 
 ---
 
 ## ✅ Day 2 — Array / Hash (進階)
-- [ ] Group Anagrams  
-- [ ] Top K Frequent Elements  
+- [✔️］Group Anagrams(defaultdict)
+- [🔺] Top K Frequent Elements(Counter, heapq)
 
 ---
 
