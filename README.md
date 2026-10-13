@@ -21,7 +21,7 @@
 
 | 順序 | 題目 | 難度 | 主要練習重點 | 先前紀錄 | 最近結果／下次複習 |
 | :--: | :-- | :--: | :-- | :--: | :--: |
-| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap：值 → 索引；先查再存 | ✔ | — |
+| 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap：值 → 索引；先查再存 | △ | 2026-10-14 |
 | 2 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | set：查找與去重 | ✔ | — |
 | 3 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | dict／Counter：頻率計數 | ✔ | — |
 | 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 排序字串作 key；dict 分組 | ✔ | — |
