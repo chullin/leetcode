@@ -52,11 +52,11 @@
 
 每題先練一種主要解法，理解它與暴力解法的差異即可，不要求同時完成三種解法。
 
-- **Group Anagrams：**先用排序後的字串作 key，字元計數 key 後補。
-- **Top K Frequent Elements：**先理解頻率計數，再練 bucket；heap／Quickselect 後補。完整排序可作理解起點，但不一定符合官方 follow-up 的複雜度要求。
-- **Reverse Linked List：**先掌握迴圈版本，遞迴版本後補。
-- **Number of Islands：**先掌握一種走訪方法；使用迭代 DFS 或 BFS 可避免深層遞迴的問題。
-- **Maximum Subarray：**先理解 Kadane 的狀態與更新，分治版本後補。
+- Group Anagrams：先用排序後的字串作 key，字元計數 key 後補。
+- Top K Frequent Elements：先理解頻率計數，再練 bucket；heap／Quickselect 後補。完整排序可作理解起點，但不一定符合官方 follow-up 的複雜度要求。
+- Reverse Linked List：先掌握迴圈版本，遞迴版本後補。
+- Number of Islands：先掌握一種走訪方法；使用迭代 DFS 或 BFS 可避免深層遞迴的問題。
+- Maximum Subarray：先理解 Kadane 的狀態與更新，分治版本後補。
 
 ## 📅 複習安排
 
