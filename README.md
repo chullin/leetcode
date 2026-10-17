@@ -23,7 +23,7 @@
 | :--: | :-- | :--: | :-- | :--: | :--: |
 | 1 | [1. Two Sum](https://leetcode.com/problems/two-sum/) | Easy | HashMap：值 → 索引；先查再存 | ◎ | 2026-10-21 |
 | 2 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | set：查找與去重 | ◎ | 2026-10-21 |
-| 3 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | dict／Counter：頻率計數 | ✔ | — |
+| 3 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | dict／Counter：頻率計數 | △ | 2026-10-18 |
 | 4 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | 排序字串作 key；dict 分組 | ✔ | — |
 | 5 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Medium | 頻率計數＋bucket；heap 後補 | △ | — |
 | 6 | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack：成對匹配與處理順序 | — | — |
